@@ -5,7 +5,13 @@
 				"event": "AI Saturday",
 				"date": "6/1/2018",
 				"place": "GO-JEK HQ" 
-			}
+			},
+			{
+				"event": "The Power of Go",
+				
+			"organizer": "tokopedia TechABreak x GoJakarta",
+			   "date": "18/1/2018",
+			   "place": "Tokopedia Tower"}
 		]
 
 }
