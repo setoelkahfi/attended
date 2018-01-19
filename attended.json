@@ -2,16 +2,19 @@
 	"contents":
 		[
 			{
-				"event": "AI Saturday",
+				"event": "Session 1: Python and Linear Algebra Review",
+				"organizer": "AI Saturdays Jakarta"
 				"date": "6/1/2018",
-				"place": "GO-JEK HQ" 
+				"place": "GO-JEK HQ",
+				"role": "participant"
 			},
 			{
 				"event": "The Power of Go",
-				
-			"organizer": "tokopedia TechABreak x GoJakarta",
-			   "date": "18/1/2018",
-			   "place": "Tokopedia Tower"}
+				"organizer": "Tokopedia TechABreak x GoJakarta",
+				"date": "18/1/2018",
+				"place": "Tokopedia Tower",
+				"role": "participant"
+			}
 		]
 
 }
