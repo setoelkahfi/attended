@@ -1,2 +1,2 @@
-# attended
-Meetups, talks, conferences, workshops, seminars I attended.
+# Resources
+JSON, CSS, JS files.
